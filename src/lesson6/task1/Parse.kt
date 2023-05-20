@@ -74,7 +74,7 @@ fun main() {
  * Обратите внимание: некорректная с точки зрения календаря дата (например, 30.02.2009) считается неверными
  * входными данными.
  */
-fun dateStrToDigit(str: String): String = "Hello"
+fun dateStrToDigit(str: String): String = TODO()
 
 /**
  * Средняя (4 балла)
