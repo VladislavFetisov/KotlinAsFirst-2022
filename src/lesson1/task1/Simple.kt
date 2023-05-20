@@ -88,6 +88,7 @@ fun lengthInMeters(sagenes: Int, arshins: Int, vershoks: Int): Double {
  */
 fun angleInRadian(deg: Int, min: Int, sec: Int): Double {
     val b = 15 * 6
+    val a = b + 1
     return b
 }
 
