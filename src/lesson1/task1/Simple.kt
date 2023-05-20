@@ -15,7 +15,7 @@ import kotlin.math.*
  */
 
 fun sqr(x: Int) {
-    x * x
+    1
 }
 
 /**
@@ -85,9 +85,7 @@ fun lengthInMeters(sagenes: Int, arshins: Int, vershoks: Int): Double = 0.0
  * Пользователь задает угол в градусах, минутах и секундах (например, 36 градусов 14 минут 35 секунд).
  * Вывести значение того же угла в радианах (например, 0.63256).
  */
-fun angleInRadian(deg: Int, min: Int, sec: Int): Double {
-    deg
-}
+fun angleInRadian(deg: Int, min: Int, sec: Int): Double = TODO()
 
 /**
  * Тривиальная (1 балл)
