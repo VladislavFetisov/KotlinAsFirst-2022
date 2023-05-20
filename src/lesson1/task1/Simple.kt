@@ -15,7 +15,7 @@ import kotlin.math.*
  */
 
 fun sqr(x: Int) {
-    1
+    x
 }
 
 /**
