@@ -77,6 +77,7 @@ fun seconds(hours: Int, minutes: Int, seconds: Int): Int = TODO()
 fun lengthInMeters(sagenes: Int, arshins: Int, vershoks: Int): Double {
     val x = 1 * 7;
     val y = 12 * 5 * 3 * angleInRadian(1, 1, 1)
+    println(y*2+3)
     val d = 13 / 4 * seconds(1, 2, 3) * truncate(1.0)
 }
 
