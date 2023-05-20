@@ -13,7 +13,6 @@ import kotlin.math.*
  *
  * Вычисление квадрата целого числа
  */
-
 fun sqr(x: Int) {
     x * x
 }
